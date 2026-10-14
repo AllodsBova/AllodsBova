@@ -1,61 +1,49 @@
 ![BOVA — Beyond the Source](./bova-banner.png)
 
-
-### Beyond the Source.
-
 **Reverse Engineering · Game Research · Tool Development**
 
 *Understanding what's hidden. Building what's missing.*
 
 ---
 
-### About BOVA
+### About
 
-BOVA is an independent initiative dedicated to understanding the technology behind games.
+**BOVA** is an independent game technology research initiative.
 
-We explore undocumented file formats, study game clients and assets, and develop tools to make complex systems easier to understand.
+We explore undocumented file formats, game clients and assets, and develop tools to better understand how they work.
 
-Our work is driven by curiosity, technical exploration, and an interest in preserving knowledge that might otherwise disappear.
+Our focus is on technical exploration, practical tooling, and preserving knowledge that might otherwise be lost.
 
-### Fields of Interest
+### What We Explore
 
-**01 / Reverse Engineering**  
-Exploring software internals and undocumented systems.
+| Research | Tools & Preservation |
+| --- | --- |
+| **Binary Formats** — files, archives, data structures | **Custom Tools** — extraction, inspection, visualization |
+| **Game Assets** — 3D geometry, textures, maps | **Digital Preservation** — documentation and legacy resources |
+| **Reverse Engineering** — undocumented systems | **Research Workflows** — understanding and rebuilding |
 
-**02 / Binary Formats**  
-Analyzing proprietary file structures, archives, and data.
+### Featured Research
 
-**03 / Game Assets**  
-Researching 3D geometry, textures, world data, and map formats.
+**Allods Online — Reverse Engineering & Client Research**
 
-**04 / Tool Development**  
-Creating utilities for inspecting, extracting, and working with game resources.
+A look back at our earlier work exploring the game's internals, analyzing its client, and building custom tools.
 
-**05 / Digital Preservation**  
-Keeping valuable technical knowledge and legacy resources from being forgotten.
+[Read our research story →](https://community.allods-developers.eu/threads/ot-lubvi-k-allodam-ili-pocemu-my-vzalis-za-revers-inziniring.709/)
 
----
+### Current Direction
 
-### Research & Background
+We're interested in lightweight tools for exploring binary data, game assets, and map formats.
 
-Our previous work includes research into the internals of **Allods Online**, client analysis, and custom development tools.
-
-[Read our reverse engineering story →](https://community.allods-developers.eu/threads/ot-lubvi-k-allodam-ili-pocemu-my-vzalis-za-revers-inziniring.709/)
-
-### Work in Progress
-
-We're continuing to explore legacy game technologies and ideas for lightweight tools to inspect and edit game data.
-
-Public repositories and documentation will be linked here as they become available.
+Public repositories and documentation will appear here as they're ready.
 
 ### Collaboration
 
-Interested in reverse engineering, rare development resources, or undocumented game formats?
+Have technical insights, unusual file formats, or legacy development resources to discuss?
 
-We're always open to exchanging knowledge and discussing interesting research.
+We're open to exchanging knowledge and exploring ideas together.
 
 ---
 
-*Not everything worth discovering is documented.*
+*Research. Understand. Rebuild.*
 
-**BOVA © 2026**
+**BOVA · Independent Research & Development**
