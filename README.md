@@ -30,6 +30,12 @@ A look back at our earlier work exploring the game's internals, analyzing its cl
 
 [Read our research story →](https://community.allods-developers.eu/threads/ot-lubvi-k-allodam-ili-pocemu-my-vzalis-za-revers-inziniring.709/)
 
+### Our Repositories
+
+**[BOVA Research](https://github.com/AllodsBova/bova-research)**  
+Technical research, binary formats, reverse engineering
+and game technology documentation.
+
 ### Current Direction
 
 We're interested in lightweight tools for exploring binary data, game assets, and map formats.
